@@ -45,3 +45,11 @@ PROJECT OUTCOME:
 CONCLUSION:
 
 The code demonstrates the application of K-Means clustering to segment customers based on their annual income and spending score. The visual representation allows for the identification of distinct customer segments. Further analysis or targeted marketing strategies can be devised based on the identified clusters. The code provides a straightforward example of using clustering techniques for customer segmentation.
+
+ACKNOLEDGEMENT:
+
+The project is for educational purposes and was created as part of @Prodigy_Infotech Internship
+
+Feel free to explore, modify, or expand upon this project!
+
+If you have any queRIES, suggestions, or feedback, please feel free to email me at Jyoshikavoggu@gmail.com
