@@ -1,5 +1,5 @@
 # PRODIGY_ML_02
-
+# K-means clustering algorithm to group customers
 OVVERVIEW: 
 
 The objective is to implement a K-Means clustering algorithm for grouping customers of a retail store based on their purchase history. This clustering can provide valuable insights for personalized marketing strategies, customer targeting, and overall business decision-making. It uses the customers' annual income and spending score to create clusters and visualizes the results.
